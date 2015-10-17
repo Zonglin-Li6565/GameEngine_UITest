@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/zonglin/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.6.1/6f3b8a24bf970f17289b234284c94f43eb42f0e4/slf4j-api-1.6.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6f3b8a24bf970f17289b234284c94f43eb42f0e4">
+        <dex dex="/mnt/76A0FD4FA0FD15F9/newWorkspace/Tsuru2D/Tsuru2D-engine/android/build/intermediates/pre-dexed/debug/slf4j-api-1.6.1-a1ce483ff77aae50beb49a5002b12f27de39bab7.jar" />
+    </item>
+    <item
+        jar="/home/zonglin/.gradle/caches/modules-2/files-2.1/org.apache.oltu.oauth2/org.apache.oltu.oauth2.common/1.0.0/d91b9ea335ca014ca57574f8bde5fd1a0b0de8c1/org.apache.oltu.oauth2.common-1.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d91b9ea335ca014ca57574f8bde5fd1a0b0de8c1">
+        <dex dex="/mnt/76A0FD4FA0FD15F9/newWorkspace/Tsuru2D/Tsuru2D-engine/android/build/intermediates/pre-dexed/debug/org.apache.oltu.oauth2.common-1.0.0-de21216c53ee9811fd4501c0e1bd37fa2b21a89d.jar" />
+    </item>
+    <item
+        jar="/home/zonglin/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.8/af3be3f74d25fc5163b54f56a0d394b462dafafd/commons-codec-1.8.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="af3be3f74d25fc5163b54f56a0d394b462dafafd">
+        <dex dex="/mnt/76A0FD4FA0FD15F9/newWorkspace/Tsuru2D/Tsuru2D-engine/android/build/intermediates/pre-dexed/debug/commons-codec-1.8-260f38b89f959d96c81bd1fbe0d7b2d118fa5fb6.jar" />
+    </item>
+    <item
+        jar="/home/zonglin/.gradle/caches/modules-2/files-2.1/org.apache.oltu.oauth2/org.apache.oltu.oauth2.client/1.0.0/a4ac555e984788463ea789e04cc79c040d4de6a3/org.apache.oltu.oauth2.client-1.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4ac555e984788463ea789e04cc79c040d4de6a3">
+        <dex dex="/mnt/76A0FD4FA0FD15F9/newWorkspace/Tsuru2D/Tsuru2D-engine/android/build/intermediates/pre-dexed/debug/org.apache.oltu.oauth2.client-1.0.0-1804f74dab8d41fd9cf19db3433999b6a389eb2a.jar" />
+    </item>
+    <item
+        jar="/home/zonglin/.gradle/caches/modules-2/files-2.1/org.luaj/luaj-jse/3.0.1/99245b2df284805e1cb835e9be47c243f9717511/luaj-jse-3.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="99245b2df284805e1cb835e9be47c243f9717511">
+        <dex dex="/mnt/76A0FD4FA0FD15F9/newWorkspace/Tsuru2D/Tsuru2D-engine/android/build/intermediates/pre-dexed/debug/luaj-jse-3.0.1-0df5c30f350b79b7a53e4937ef8f11cb97ef9280.jar" />
+    </item>
+    <item
+        jar="/home/zonglin/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.6.5/b56ebcc34d39c4bb0a828c5ed04f46a04314bb4d/gdx-1.6.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b56ebcc34d39c4bb0a828c5ed04f46a04314bb4d">
+        <dex dex="/mnt/76A0FD4FA0FD15F9/newWorkspace/Tsuru2D/Tsuru2D-engine/android/build/intermediates/pre-dexed/debug/gdx-1.6.5-601e1559cdd70a7c80b0d6fc675ce01f0fd15efd.jar" />
+    </item>
+    <item
+        jar="/home/zonglin/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.6.5/47d6744474ff276a8f92e92d22d7c956f5c832f0/gdx-backend-android-1.6.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="47d6744474ff276a8f92e92d22d7c956f5c832f0">
+        <dex dex="/mnt/76A0FD4FA0FD15F9/newWorkspace/Tsuru2D/Tsuru2D-engine/android/build/intermediates/pre-dexed/debug/gdx-backend-android-1.6.5-e792cf7f7f1d389e7fb8630300215f5d843cec91.jar" />
+    </item>
+    <item
+        jar="/mnt/76A0FD4FA0FD15F9/newWorkspace/Tsuru2D/Tsuru2D-engine/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a14c35933a535d498b90c8c7030675d123fce46c">
+        <dex dex="/mnt/76A0FD4FA0FD15F9/newWorkspace/Tsuru2D/Tsuru2D-engine/android/build/intermediates/pre-dexed/debug/core-1.0-97230f0bf848fb5c4e119566806d7c177c94b4bd.jar" />
+    </item>
+
+</items>

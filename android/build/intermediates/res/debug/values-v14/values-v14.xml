@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/mnt/76A0FD4FA0FD15F9/newWorkspace/Tsuru2D/Tsuru2D-engine/android/res/values-v14/styles.xml -->
+    <eat-comment/>
+    <style name="SystemTheme" parent="android:Theme.DeviceDefault"/>
+</resources>
